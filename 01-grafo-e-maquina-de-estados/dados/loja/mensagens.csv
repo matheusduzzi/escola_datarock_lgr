@@ -1,0 +1,60 @@
+id_mensagem,texto,rota_esperada
+1,Bom dia,humano
+2,Quero trocar o produto do pedido 59,troca
+3,Quero falar com uma pessoa,humano
+4,Quero falar com uma pessoa,humano
+5,O pedido 84 já foi enviado?,pedido
+6,Pode me passar o rastreio do pedido 25?,pedido
+7,Meu pedido 86 ainda não chegou,pedido
+8,   ,humano
+9,"Recebi com defeito, quero devolver",troca
+10,Vocês abrem no feriado?,humano
+11,Vocês abrem no feriado?,humano
+12,Bom dia,humano
+13,Qual a previsão de entrega do pedido 115?,pedido
+14,"Recebi com defeito, quero devolver",troca
+15,"Recebi com defeito, quero devolver",troca
+16,Preciso da devolução do pedido 115,troca
+17,Preciso da devolução do pedido 64,troca
+18,Pode me passar o rastreio do pedido 49?,pedido
+19,Onde está a ENTREGA?,pedido
+20,Quero falar com uma pessoa,humano
+21,O pedido 19 já foi enviado?,pedido
+22,Pode me passar o rastreio do pedido 32?,pedido
+23,Quero falar com uma pessoa,humano
+24,Quero falar com uma pessoa,humano
+25,Vocês vendem no atacado?,humano
+26,Preciso da devolução do pedido 81,troca
+27,Preciso da devolução do pedido 69,troca
+28,Meu pedido 29 ainda não chegou,pedido
+29,Meu pedido 110 ainda não chegou,pedido
+30,Meu pedido 10 ainda não chegou,pedido
+31,Preciso da devolução do pedido 63,troca
+32,Quero falar com uma pessoa,humano
+33,Como faço a troca do tamanho?,troca
+34,Bom dia,humano
+35,Meu pedido 58 ainda não chegou,pedido
+36,Quero trocar o produto do pedido 59,troca
+37,Pode me passar o rastreio do pedido 109?,pedido
+38,Vocês abrem no feriado?,humano
+39,"DEVOLUÇÃO do pedido 3, por favor",troca
+40,Quero falar com uma pessoa,humano
+41,Qual a previsão de entrega do pedido 99?,pedido
+42,Bom dia,humano
+43,Vocês vendem no atacado?,humano
+44,,humano
+45,Meu pedido 89 ainda não chegou,pedido
+46,Como faço a troca do tamanho?,troca
+47,"Meu pedido 15 chegou com DEFEITO, quero devolver",troca
+48,Quero trocar o produto do pedido 6,troca
+49,Quero trocar o produto do pedido 18,troca
+50,Meu pedido 53 ainda não chegou,pedido
+51,Bom dia,humano
+52,Quero falar com uma pessoa,humano
+53,Quero trocar o produto do pedido 115,troca
+54,Preciso da devolução do pedido 1,troca
+55,"Recebi com defeito, quero devolver",troca
+56,O pedido 35 já foi enviado?,pedido
+57,Preciso da devolução do pedido 50,troca
+58,Cadê o meu pedido 27?,pedido
+59,Pode me passar o rastreio do pedido 55?,pedido
