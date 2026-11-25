@@ -42,3 +42,12 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 |---|---|
 | [00-apresentacao/](00-apresentacao/) | Apresentação |
 | [01-grafo-e-maquina-de-estados/](01-grafo-e-maquina-de-estados/) | Grafo e máquina de estados |
+| [02-do-script-ao-grafo/](02-do-script-ao-grafo/) | Do script ao grafo |
+| [03-arestas-condicionais/](03-arestas-condicionais/) | Arestas condicionais |
+| [04-ferramentas-no-grafo/](04-ferramentas-no-grafo/) | Ferramentas no grafo |
+| [05-checkpoints-e-identidade/](05-checkpoints-e-identidade/) | Checkpoints e identidade |
+| [06-memoria-por-thread/](06-memoria-por-thread/) | Memória por thread |
+| [07-humano-no-loop/](07-humano-no-loop/) | Humano no loop |
+| [08-falhar-e-retomar/](08-falhar-e-retomar/) | Falhar e retomar |
+| [09-auditar-caminhos/](09-auditar-caminhos/) | Auditar caminhos |
+| [10-defesa-do-atendimento/](10-defesa-do-atendimento/) | Defesa do atendimento |

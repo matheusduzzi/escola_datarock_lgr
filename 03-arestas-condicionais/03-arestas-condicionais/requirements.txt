@@ -1,0 +1,4 @@
+# Aula 03. Arestas condicionais. Pede Python 3.10 ou mais novo.
+# Versões com que os comandos da aula rodaram em 13/11/2026.
+langgraph==1.2.21
+langchain-core==1.8.0

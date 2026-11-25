@@ -1,0 +1,4 @@
+# Aula 06. Memória por thread. Pede Python 3.11 ou mais novo (o langchain-core 1.8.0 exige 3.11).
+# Versões com que os comandos da aula rodaram em 13/11/2026.
+langgraph==1.2.21
+langchain-core==1.8.0

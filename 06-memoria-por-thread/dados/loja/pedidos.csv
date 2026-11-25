@@ -1,0 +1,121 @@
+id_pedido,cliente,produto,valor,status,previsao_entrega
+1,Cliente 0126,Mochila escolar,129.00,aguardando_pagamento,2026-09-21
+2,Cliente 0280,Garrafa térmica,79.90,em_separacao,2026-09-10
+3,Cliente 0217,Garrafa térmica,89.90,aguardando_pagamento,2026-10-11
+4,Cliente 0112,Fone sem fio,189.90,aguardando_pagamento,2026-09-09
+5,Cliente 0288,Garrafa térmica,79.90,cancelado,2026-09-05
+6,Cliente 0113,Garrafa térmica,79.90,cancelado,2026-09-30
+7,Cliente 0143,Cadeira de escritório,850.00,entregue,2026-10-11
+8,Cliente 0175,Fone sem fio,189.90,em_separacao,2026-10-01
+9,Cliente 0173,Cafeteira elétrica,259.00,em_separacao,2026-09-17
+10,Cliente 0050,Mochila escolar,129.00,aguardando_pagamento,2026-09-28
+11,Cliente 0023,Luminária de mesa,99.90,enviado,2026-09-20
+12,Cliente 0194,Kit de panelas,449.00,cancelado,2026-09-11
+13,Cliente 0186,Mochila escolar,129.00,cancelado,2026-09-22
+14,Cliente 0117,Garrafa térmica,79.90,aguardando_pagamento,2026-09-06
+15,Cliente 0052,Cafeteira elétrica,259.00,aguardando_pagamento,2026-09-18
+16,Cliente 0187,Cadeira de escritório,850.00,enviado,2026-10-03
+17,Cliente 0108,Tênis de corrida,349.90,enviado,2026-09-26
+18,Cliente 0274,Cafeteira elétrica,259.00,aguardando_pagamento,2026-09-14
+19,Cliente 0195,Garrafa térmica,79.90,em_separacao,2026-10-03
+20,Cliente 0167,Cafeteira elétrica,259.00,cancelado,2026-09-18
+21,Cliente 0162,Fone sem fio,189.90,em_separacao,2026-09-06
+22,Cliente 0109,Cadeira de escritório,850.00,enviado,2026-09-08
+23,Cliente 0203,Luminária de mesa,99.90,em_separacao,2026-10-05
+24,Cliente 0072,Kit de panelas,449.00,em_separacao,2026-09-20
+25,Cliente 0135,Garrafa térmica,79.90,cancelado,2026-10-08
+26,Cliente 0186,Cadeira de escritório,850.00,cancelado,2026-09-29
+27,Cliente 0253,Garrafa térmica,79.90,em_separacao,2026-10-06
+28,Cliente 0079,Mochila escolar,129.00,aguardando_pagamento,2026-09-11
+29,Cliente 0198,Tênis de corrida,349.90,entregue,2026-09-08
+30,Cliente 0271,Cadeira de escritório,850.00,cancelado,2026-10-03
+31,Cliente 0059,Cafeteira elétrica,259.00,cancelado,2026-09-04
+32,Cliente 0151,Cafeteira elétrica,259.00,enviado,2026-09-11
+33,Cliente 0002,Cadeira de escritório,850.00,em_separacao,2026-10-03
+34,Cliente 0260,Cafeteira elétrica,259.00,cancelado,2026-09-15
+35,Cliente 0102,Mochila escolar,129.00,enviado,2026-10-06
+36,Cliente 0277,Tênis de corrida,349.90,enviado,2026-09-14
+37,Cliente 0251,Fone sem fio,189.90,cancelado,2026-09-24
+38,Cliente 0158,Fone sem fio,189.90,aguardando_pagamento,2026-09-27
+39,Cliente 0291,Garrafa térmica,79.90,aguardando_pagamento,2026-09-19
+40,Cliente 0036,Mochila escolar,129.00,aguardando_pagamento,2026-10-05
+41,Cliente 0282,Tênis de corrida,349.90,em_separacao,2026-10-04
+42,Cliente 0271,Kit presente,200.00,em_separacao,2026-09-20
+43,Cliente 0103,Cadeira de escritório,850.00,em_separacao,2026-10-08
+44,Cliente 0225,Cafeteira elétrica,259.00,entregue,2026-09-27
+45,Cliente 0116,Kit de panelas,449.00,aguardando_pagamento,2026-09-19
+46,Cliente 0284,Mochila escolar,129.00,enviado,2026-09-05
+47,Cliente 0004,Garrafa térmica,79.90,cancelado,2026-09-18
+48,Cliente 0035,Mochila escolar,129.00,aguardando_pagamento,2026-09-18
+49,Cliente 0264,Fone sem fio,189.90,enviado,2026-09-08
+50,Cliente 0110,Garrafa térmica,79.90,enviado,2026-10-05
+51,Cliente 0243,Tênis de corrida,349.90,cancelado,2026-10-10
+52,Cliente 0098,Garrafa térmica,79.90,entregue,2026-09-30
+53,Cliente 0182,Mochila escolar,129.00,aguardando_pagamento,2026-10-01
+54,Cliente 0028,Cadeira de escritório,850.00,entregue,2026-10-03
+55,Cliente 0174,Mochila escolar,129.00,aguardando_pagamento,2026-09-29
+56,Cliente 0098,Mochila escolar,129.00,em_separacao,2026-09-16
+57,Cliente 0094,Kit de panelas,449.00,em_separacao,2026-10-01
+58,Cliente 0039,Cafeteira elétrica,259.00,entregue,2026-09-19
+59,Cliente 0026,Kit de panelas,449.00,cancelado,2026-09-10
+60,Cliente 0086,Fone sem fio,189.90,aguardando_pagamento,2026-09-19
+61,Cliente 0110,Cadeira de escritório,850.00,entregue,2026-10-04
+62,Cliente 0195,Cadeira de escritório,850.00,aguardando_pagamento,2026-09-14
+63,Cliente 0233,Fone sem fio,189.90,entregue,2026-09-20
+64,Cliente 0250,Cafeteira elétrica,259.00,entregue,2026-10-09
+65,Cliente 0112,Tênis de corrida,349.90,em_separacao,2026-09-22
+66,Cliente 0032,Fone sem fio,189.90,cancelado,2026-10-08
+67,Cliente 0300,Luminária de mesa,99.90,aguardando_pagamento,2026-09-07
+68,Cliente 0081,Kit de panelas,449.00,cancelado,2026-10-07
+69,Cliente 0096,Fone sem fio,189.90,cancelado,2026-09-09
+70,Cliente 0121,Mochila escolar,129.00,cancelado,2026-09-08
+71,Cliente 0127,Cadeira de escritório,850.00,aguardando_pagamento,2026-10-10
+72,Cliente 0215,Fone sem fio,189.90,cancelado,2026-09-09
+73,Cliente 0161,Luminária de mesa,99.90,enviado,2026-09-17
+74,Cliente 0068,Garrafa térmica,79.90,enviado,2026-09-29
+75,Cliente 0038,Cafeteira elétrica,259.00,entregue,2026-09-24
+76,Cliente 0052,Fone sem fio,189.90,entregue,2026-10-10
+77,Cliente 0260,Mochila escolar,129.00,cancelado,2026-09-17
+78,Cliente 0036,Cafeteira elétrica,259.00,em_separacao,2026-09-26
+79,Cliente 0081,Garrafa térmica,79.90,enviado,2026-09-22
+80,Cliente 0271,Kit de panelas,449.00,cancelado,2026-09-23
+81,Cliente 0054,Fone sem fio,189.90,cancelado,2026-09-23
+82,Cliente 0055,Tênis de corrida,349.90,enviado,2026-09-11
+83,Cliente 0108,Tênis de corrida,349.90,enviado,2026-09-22
+84,Cliente 0259,Luminária de mesa,99.90,em_separacao,2026-09-20
+85,Cliente 0048,Kit de panelas,449.00,enviado,2026-09-07
+86,Cliente 0002,Cadeira de escritório,850.00,enviado,2026-09-06
+87,Cliente 0083,Luminária de mesa,99.90,em_separacao,2026-09-20
+88,Cliente 0288,Kit de panelas,449.00,cancelado,2026-10-01
+89,Cliente 0077,Fone sem fio,189.90,aguardando_pagamento,2026-09-08
+90,Cliente 0283,Fone sem fio,189.90,enviado,2026-10-11
+91,Cliente 0022,Tênis de corrida,349.90,entregue,2026-09-12
+92,Cliente 0184,Cafeteira elétrica,259.00,enviado,2026-09-06
+93,Cliente 0182,Garrafa térmica,79.90,em_separacao,2026-09-10
+94,Cliente 0122,Cadeira de escritório,850.00,cancelado,2026-09-13
+95,Cliente 0013,Tênis de corrida,349.90,em_separacao,2026-09-30
+96,Cliente 0128,Tênis de corrida,349.90,enviado,2026-09-30
+97,Cliente 0196,Cafeteira elétrica,259.00,em_separacao,2026-09-10
+98,Cliente 0103,Fone sem fio,189.90,entregue,2026-09-18
+99,Cliente 0117,Kit de panelas,449.00,enviado,2026-09-23
+100,Cliente 0205,Garrafa térmica,79.90,aguardando_pagamento,2026-09-16
+101,Cliente 0143,Luminária de mesa,99.90,enviado,2026-09-08
+102,Cliente 0275,Luminária de mesa,99.90,cancelado,2026-09-29
+103,Cliente 0134,Luminária de mesa,99.90,aguardando_pagamento,2026-09-11
+104,Cliente 0020,Tênis de corrida,349.90,cancelado,2026-09-20
+105,Cliente 0177,Mochila escolar,129.00,cancelado,2026-10-01
+106,Cliente 0060,Luminária de mesa,99.90,entregue,2026-10-06
+107,Cliente 0131,Cadeira de escritório,850.00,cancelado,2026-09-16
+108,Cliente 0267,Fone sem fio,189.90,entregue,2026-09-04
+109,Cliente 0036,Garrafa térmica,79.90,enviado,2026-10-01
+110,Cliente 0064,Luminária de mesa,99.90,cancelado,2026-09-24
+111,Cliente 0210,Cafeteira elétrica,259.00,cancelado,2026-09-23
+112,Cliente 0284,Luminária de mesa,99.90,entregue,2026-09-22
+113,Cliente 0195,Tênis de corrida,349.90,em_separacao,2026-09-30
+114,Cliente 0155,Tênis de corrida,349.90,cancelado,2026-10-10
+115,Cliente 0156,Cadeira de escritório,850.00,cancelado,2026-09-04
+116,Cliente 0297,Cafeteira elétrica,259.00,em_separacao,2026-10-01
+117,Cliente 0227,Luminária de mesa,99.90,entregue,2026-10-02
+118,Cliente 0087,Garrafa térmica,79.90,cancelado,2026-10-04
+119,Cliente 0172,Mochila escolar,129.00,enviado,2026-10-06
+120,Cliente 0116,Mochila escolar,129.00,em_separacao,2026-09-23

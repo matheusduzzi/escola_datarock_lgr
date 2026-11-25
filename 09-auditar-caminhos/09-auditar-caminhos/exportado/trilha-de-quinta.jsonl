@@ -1,0 +1,24 @@
+{"quando": "2026-11-19T09:12:05-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "servidor", "evento": "pedido", "detalhe": "Cliente 0198"}
+{"quando": "2026-11-19T09:12:06-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "preparar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T09:12:07-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "preparar", "evento": "terminou", "detalhe": "valor 349,90"}
+{"quando": "2026-11-19T09:12:08-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "aprovar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T09:12:09-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "aprovar", "evento": "pausou", "detalhe": "esperando o financeiro"}
+{"quando": "2026-11-19T09:12:10-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "servidor", "evento": "respondeu", "detalhe": "O pedido 29 vale 349,90. O reembolso foi para o financeiro aprovar."}
+{"quando": "2026-11-19T09:30:41-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "servidor", "evento": "decisão recusada", "detalhe": "financeiro.daniela: Só o financeiro decide reembolso."}
+{"quando": "2026-11-19T10:02:17-03:00", "thread": "207d59f87213aba3f060112012065410", "pedido": 29, "onde": "servidor", "evento": "decisão recusada", "detalhe": "financeiro.daniela: Só o financeiro decide reembolso."}
+{"quando": "2026-11-19T11:20:33-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "pedido", "detalhe": "Cliente 0225"}
+{"quando": "2026-11-19T11:20:34-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "preparar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T11:20:35-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "preparar", "evento": "terminou", "detalhe": "valor 259,00"}
+{"quando": "2026-11-19T11:20:36-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "aprovar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T11:20:37-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "aprovar", "evento": "pausou", "detalhe": "esperando o financeiro"}
+{"quando": "2026-11-19T11:20:38-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "respondeu", "detalhe": "O pedido 44 vale 259,00. O reembolso foi para o financeiro aprovar."}
+{"quando": "2026-11-19T11:31:09-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "decisão", "detalhe": "financeiro.bruno: aprovou"}
+{"quando": "2026-11-19T11:31:11-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "aprovar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T11:31:12-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "aprovar", "evento": "terminou", "detalhe": "aprovado por financeiro.bruno"}
+{"quando": "2026-11-19T11:31:13-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "reembolsar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-19T11:31:14-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "reembolsar", "evento": "caiu", "detalhe": "ForaDoAr: a operadora não respondeu"}
+{"quando": "2026-11-19T11:31:15-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "respondeu", "detalhe": "A operadora não respondeu. O reembolso do pedido 44 ficou para retomar."}
+{"quando": "2026-11-20T02:00:00-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "retomar", "detalhe": ""}
+{"quando": "2026-11-20T02:00:01-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "reembolsar", "evento": "começou", "detalhe": ""}
+{"quando": "2026-11-20T02:00:02-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "reembolsar", "evento": "caiu", "detalhe": "ForaDoAr: a operadora não respondeu"}
+{"quando": "2026-11-20T02:00:03-03:00", "thread": "00323a0dffce00ba7ed3592d2bd89e35", "pedido": 44, "onde": "servidor", "evento": "respondeu", "detalhe": "A operadora não respondeu. O reembolso do pedido 44 ficou para retomar."}

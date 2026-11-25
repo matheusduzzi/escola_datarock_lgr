@@ -1,0 +1,6 @@
+# Aula 04. Ferramentas no grafo. Pede Python 3.11 ou mais novo (o langchain-core 1.8.0 exige 3.11).
+# Versões com que os comandos da aula rodaram em 13/11/2026.
+langgraph==1.2.21
+langgraph-prebuilt==1.1.1
+langchain-core==1.8.0
+pydantic==2.14.3
